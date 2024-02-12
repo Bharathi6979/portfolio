@@ -266,6 +266,11 @@ header .navbar ul li a:hover{
     overflow: hidden;
     cursor: pointer;
 }
+.box-heading{
+    color: #eee;
+    margin:20px;
+    font-size: 20px;
+}
 .portfolio .box-container .box img{
     height:100%;
     width:100%;
